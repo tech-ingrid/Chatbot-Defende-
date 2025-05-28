@@ -9,11 +9,6 @@
 
 <div align="center">
 
-## 🎥 **Pitch do Projeto**
-
-➡️ Clique na imagem para assistir.
-
-https://github.com/user-attachments/assets/5c756924-33c4-4c2d-ad7b-a58322705518
 ---
 
 ## 🖥️ **Protótipo Interativo no Figma**
