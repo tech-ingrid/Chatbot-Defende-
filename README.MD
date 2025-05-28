@@ -16,7 +16,7 @@ Perfeito. Aqui vai um modelo de README bem organizado, visual e com um texto pro
 ➡️ Clique na imagem para assistir.
 
 [![Pitch do Projeto](https://drive.google.com/file/d/1rWZB-L5uycKBJfyIUpdXBoP1iCkDf2PO/view?usp=drive_link)
-url(/Video youtube-Defende+.mp4)
+(Video youtube-Defende+.mp4)
 ---
 
 ## 🖥️ **Protótipo Interativo no Figma**
