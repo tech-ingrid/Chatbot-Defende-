@@ -5,6 +5,7 @@
 > Projeto desenvolvido na **Escola da Nuvem (Turma BRSAO172 – Abril/2025)**.
 > Uma solução pensada para combater o assédio contra **mulheres** e **pessoas LGBTQIAPN+**, oferecendo informação, acolhimento e suporte.
 
+https://github.com/tech-ingrid/Chatbot-Defende-/issues/4#issue-3098755223
 ---
 
 <div align="center">
