@@ -1,6 +1,4 @@
-Perfeito. Aqui vai um modelo de README bem organizado, visual e com um texto profissional, objetivo e acolhedor, mantendo os links como elementos principais e deixando o texto como suporte.
 
----
 
 ## 🛡️ **Defende+ – Chatbot de Apoio e Segurança**
 
@@ -31,7 +29,7 @@ Perfeito. Aqui vai um modelo de README bem organizado, visual e com um texto pro
 
 ➡️ Assista à apresentação completa.
 
-[![Slides de Apresentação](https://drive.google.com/file/d/1kWmHxEiMQ4cA9y45dCfpnk8ns6cWt_I8/view?usp=sharing)
+https://github.com/user-attachments/assets/de0d5f90-820c-4fa7-ac0c-9593fab1ab3d
 
 </div>
 
