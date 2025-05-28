@@ -65,7 +65,8 @@ O **Defende+** é um chatbot pensado para:
 
 ## 🏗️ **Arquitetura do Projeto**
 
-![Arquitetura do projeto](https://drive.google.com/file/d/1RI58_jb9-GSINxRX6MBGtinCFiAlyRm0/view?usp=sharing)
+![Image](https://github.com/user-attachments/assets/5431bfa7-bcce-423e-b3de-ff2815ed076d)
+
 
 Pensamos em uma solução escalável, segura e acessível, utilizando serviços da AWS.
 
