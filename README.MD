@@ -23,7 +23,7 @@ Perfeito. Aqui vai um modelo de README bem organizado, visual e com um texto pro
 
 ➡️ Acesse e navegue pelo protótipo.
 
-[![Acessar no Figma](https://drive.google.com/file/d/1g4_dSvgrdjZwGCOmgoedrI_MuFI_ZvbJ/view?usp=sharing)](LINK_DO_FIGMA)
+![Image](https://github.com/user-attachments/assets/52b4a7c9-de89-4a8a-8078-40f9ae906afc)
 
 ---
 
