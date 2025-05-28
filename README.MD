@@ -5,11 +5,11 @@
 > Projeto desenvolvido na **Escola da Nuvem (Turma BRSAO172 – Abril/2025)**.
 > Uma solução pensada para combater o assédio contra **mulheres** e **pessoas LGBTQIAPN+**, oferecendo informação, acolhimento e suporte.
 
-https://github.com/tech-ingrid/Chatbot-Defende-/issues/4#issue-3098755223
+
 ---
 
 <div align="center">
-
+https://github.com/user-attachments/assets/de0d5f90-820c-4fa7-ac0c-9593fab1ab3d
 ---
 
 ## 🖥️ **Protótipo Interativo no Figma**
@@ -24,7 +24,7 @@ https://github.com/tech-ingrid/Chatbot-Defende-/issues/4#issue-3098755223
 
 ➡️ Assista à apresentação completa.
 
-https://github.com/user-attachments/assets/de0d5f90-820c-4fa7-ac0c-9593fab1ab3d
+
 
 </div>
 
