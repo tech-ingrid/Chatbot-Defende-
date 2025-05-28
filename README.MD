@@ -15,7 +15,7 @@ Perfeito. Aqui vai um modelo de README bem organizado, visual e com um texto pro
 
 ➡️ Clique na imagem para assistir.
 
-[![Pitch do Projeto](https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg)](https://drive.google.com/file/d/1rWZB-L5uycKBJfyIUpdXBoP1iCkDf2PO/view?usp=drive_link)
+[![Pitch do Projeto](https://drive.google.com/file/d/1rWZB-L5uycKBJfyIUpdXBoP1iCkDf2PO/view?usp=drive_link)
 
 ---
 
@@ -31,7 +31,7 @@ Perfeito. Aqui vai um modelo de README bem organizado, visual e com um texto pro
 
 ➡️ Assista à apresentação completa.
 
-[![Slides de Apresentação](LINK_DA_THUMBNAIL_DOS_SLIDES)](https://drive.google.com/file/d/1kWmHxEiMQ4cA9y45dCfpnk8ns6cWt_I8/view?usp=sharing)
+[![Slides de Apresentação](https://drive.google.com/file/d/1kWmHxEiMQ4cA9y45dCfpnk8ns6cWt_I8/view?usp=sharing)
 
 </div>
 
