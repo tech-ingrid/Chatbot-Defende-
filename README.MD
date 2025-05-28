@@ -13,8 +13,7 @@
 
 ➡️ Clique na imagem para assistir.
 
-[![Pitch do Projeto](https://drive.google.com/file/d/1rWZB-L5uycKBJfyIUpdXBoP1iCkDf2PO/view?usp=drive_link)
-(Video youtube-Defende+.mp4)
+https://github.com/user-attachments/assets/5c756924-33c4-4c2d-ad7b-a58322705518
 ---
 
 ## 🖥️ **Protótipo Interativo no Figma**
