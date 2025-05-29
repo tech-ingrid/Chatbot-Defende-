@@ -11,20 +11,6 @@ https://github.com/user-attachments/assets/6871471e-c7e3-4479-a9cc-1a0aa03400c7
 > Uma solução pensada para combater o assédio contra **mulheres** e **pessoas LGBTQIAPN+**, oferecendo informação, acolhimento e suporte.
 
 ---
-## 📑 **Apresentação dos Slides**
-https://github.com/user-attachments/assets/c28fd462-fff1-4334-a868-fc4f72a1fb48
-
----
-## 🖥️ **Protótipo Interativo no Figma**
-
-![Image](https://github.com/user-attachments/assets/52b4a7c9-de89-4a8a-8078-40f9ae906afc)
-<div align="center">
-➡️ <a href="https://www.figma.com/proto/tRRQHZcwImDsSnWhyEuWoM/Chatbot-Restart?node-id=50-77&p=f&t=MpxbHzF3YjptAnuz-1&scaling=scale-down&content-scaling=responsive&page-id=1%3A2&starting-point-node-id=3%3A46&show-proto-sidebar=1">Acesse e navegue pelo protótipo
-   </a>
-
-</div>
----
-
 ## 🚨 **Por que criamos o Defende+?**
 
 Assédio é uma realidade que atinge diariamente mulheres e pessoas LGBTQIAPN+, seja em espaços públicos, trabalho ou na internet.
@@ -37,6 +23,20 @@ Assédio é uma realidade que atinge diariamente mulheres e pessoas LGBTQIAPN+, 
 * **300%** de aumento nos casos contra LGBTQIAPN+ em 2023.
 * **1 em cada 3 mulheres** já foi assediada no trabalho.
   *(Fontes: ILGA, OMS)*
+---
+## 📑 **Apresentação dos Slides**
+https://github.com/user-attachments/assets/c28fd462-fff1-4334-a868-fc4f72a1fb48
+
+---
+## 🖥️ **Protótipo Interativo no Figma**
+
+![Image](https://github.com/user-attachments/assets/52b4a7c9-de89-4a8a-8078-40f9ae906afc)
+<div align="center">
+➡️ <a href="https://www.figma.com/proto/tRRQHZcwImDsSnWhyEuWoM/Chatbot-Restart?node-id=50-77&p=f&t=MpxbHzF3YjptAnuz-1&scaling=scale-down&content-scaling=responsive&page-id=1%3A2&starting-point-node-id=3%3A46&show-proto-sidebar=1">Acesse e navegue pelo protótipo
+   </a>
+
+</div>
+
 ---
 
 ## 💡 **Nossa Solução**
