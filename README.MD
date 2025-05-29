@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" width="400px">
 
 ## 🛡️ **Defende+ – Chatbot de Apoio e Segurança**
 ---
