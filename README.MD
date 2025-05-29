@@ -96,9 +96,7 @@ Sem fins lucrativos, com foco em impacto social.
 
 Se este projeto te inspirou, deixe uma estrela ⭐ no repositório.
 
----
 
-## 🚀 **[Clique aqui para acessar o protótipo, vídeo e materiais completos](#)**
 
 
 
