@@ -15,7 +15,8 @@ https://github.com/user-attachments/assets/c28fd462-fff1-4334-a868-fc4f72a1fb48
 
 ![Image](https://github.com/user-attachments/assets/52b4a7c9-de89-4a8a-8078-40f9ae906afc)
 <div align="center">
-➡️ Acesse e navegue pelo protótipo: https://github.com/tech-ingrid/Chatbot-Defende-/issues/6
+➡️ <a href="https://www.figma.com/proto/tRRQHZcwImDsSnWhyEuWoM/Chatbot-Restart?node-id=50-77&p=f&t=MpxbHzF3YjptAnuz-1&scaling=scale-down&content-scaling=responsive&page-id=1%3A2&starting-point-node-id=3%3A46&show-proto-sidebar=1">Acesse e navegue pelo protótipo
+   </a>
 
 </div>
 ---
