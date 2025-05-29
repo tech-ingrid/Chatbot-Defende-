@@ -13,9 +13,11 @@ https://github.com/user-attachments/assets/c28fd462-fff1-4334-a868-fc4f72a1fb48
 ---
 ## 🖥️ **Protótipo Interativo no Figma**
 
-https://github.com/tech-ingrid/Chatbot-Defende-/issues/6
+
 ![Image](https://github.com/user-attachments/assets/52b4a7c9-de89-4a8a-8078-40f9ae906afc)
 ➡️ Acesse e navegue pelo protótipo.
+
+https://github.com/tech-ingrid/Chatbot-Defende-/issues/6
 ---
 
 ## 🚨 **Por que criamos o Defende+?**
