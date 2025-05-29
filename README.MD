@@ -1,7 +1,8 @@
 
-<div align="center">
-## 🛡️ **Defende+ – Chatbot de Apoio e Segurança**
 
+## 🛡️ **Defende+ – Chatbot de Apoio e Segurança**
+---
+<div align="center">
 https://github.com/user-attachments/assets/6871471e-c7e3-4479-a9cc-1a0aa03400c7
 </div>
 ---
