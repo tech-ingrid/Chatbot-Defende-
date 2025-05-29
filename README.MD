@@ -41,7 +41,7 @@ Assédio é uma realidade que atinge diariamente mulheres e pessoas LGBTQIAPN+, 
 * **300%** de aumento nos casos contra LGBTQIAPN+ em 2023.
 * **1 em cada 3 mulheres** já foi assediada no trabalho.
   *(Fontes: ILGA, OMS)*
-
+https://github.com/tech-ingrid/Chatbot-Defende-/issues/8#issue-3099040273
 ---
 
 ## 💡 **Nossa Solução**
