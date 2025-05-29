@@ -29,15 +29,6 @@ Assédio é uma realidade que atinge diariamente mulheres e pessoas LGBTQIAPN+, 
 ## 📑 **Apresentação dos Slides**
 https://github.com/user-attachments/assets/c28fd462-fff1-4334-a868-fc4f72a1fb48
 
----
-## 🖥️ **Protótipo Interativo no Figma**
-
-![Image](https://github.com/user-attachments/assets/52b4a7c9-de89-4a8a-8078-40f9ae906afc)
-<div align="center">
-➡️ <a href="https://www.figma.com/proto/tRRQHZcwImDsSnWhyEuWoM/Chatbot-Restart?node-id=50-77&p=f&t=MpxbHzF3YjptAnuz-1&scaling=scale-down&content-scaling=responsive&page-id=1%3A2&starting-point-node-id=3%3A46&show-proto-sidebar=1">Acesse e navegue pelo protótipo
-   </a>
-
-</div>
 
 ---
 
@@ -49,6 +40,18 @@ O **Defende+** é um chatbot pensado para:
 * **Orientar** sobre como identificar situações de assédio.
 * **Encaminhar** para canais de emergência e suporte.
 * Ser um ambiente de **acolhimento, escuta e segurança**.
+
+---
+## 🖥️ **Protótipo Interativo no Figma**
+
+<div align="center">
+
+![Image](https://github.com/user-attachments/assets/52b4a7c9-de89-4a8a-8078-40f9ae906afc)
+
+➡️ <a href="https://www.figma.com/proto/tRRQHZcwImDsSnWhyEuWoM/Chatbot-Restart?node-id=50-77&p=f&t=MpxbHzF3YjptAnuz-1&scaling=scale-down&content-scaling=responsive&page-id=1%3A2&starting-point-node-id=3%3A46&show-proto-sidebar=1">Acesse e navegue pelo protótipo
+   </a>
+
+</div>
 
 ---
 
