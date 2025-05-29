@@ -1,8 +1,11 @@
 
 
 ## 🛡️ **Defende+ – Chatbot de Apoio e Segurança**
+---
+<div align="center">
 https://github.com/user-attachments/assets/6871471e-c7e3-4479-a9cc-1a0aa03400c7
-
+</div>
+---
 > Projeto desenvolvido na **Escola da Nuvem (Turma BRSAO172 – Abril/2025)**.
 > Uma solução pensada para combater o assédio contra **mulheres** e **pessoas LGBTQIAPN+**, oferecendo informação, acolhimento e suporte.
 
