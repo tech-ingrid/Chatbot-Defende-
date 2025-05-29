@@ -17,6 +17,7 @@ https://github.com/user-attachments/assets/6871471e-c7e3-4479-a9cc-1a0aa03400c7
 
 ➡️ Acesse e navegue pelo protótipo.
 https://github.com/tech-ingrid/Chatbot-Defende-/issues/6
+![Image](https://github.com/user-attachments/assets/52b4a7c9-de89-4a8a-8078-40f9ae906afc)
 
 
 ---
