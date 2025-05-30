@@ -1,7 +1,7 @@
 
 <div align="center" width="250px">
 
-## 🛡️ **Defende+ – Chatbot de Apoio e Segurança**
+##  **Defende+ – Chatbot de Apoio e Segurança**
 ---
 
 https://github.com/user-attachments/assets/6871471e-c7e3-4479-a9cc-1a0aa03400c7
@@ -13,26 +13,26 @@ https://github.com/user-attachments/assets/6871471e-c7e3-4479-a9cc-1a0aa03400c7
 > Uma solução pensada para combater o assédio contra **mulheres** e **pessoas LGBTQIAPN+**, oferecendo informação, acolhimento e suporte.
 
 ---
-## 🚨 **Por que criamos o Defende+?**
+##  **Por que criamos o Defende+?**
 
 Assédio é uma realidade que atinge diariamente mulheres e pessoas LGBTQIAPN+, seja em espaços públicos, trabalho ou na internet.
 
 É mais do que um problema individual — é uma questão social urgente.
 
-**🔍 Dados que reforçam a importância do projeto:**
+** Dados que reforçam a importância do projeto:**
 
 * **70%** das pessoas LGBTQIAPN+ já sofreram violência ou assédio.
 * **300%** de aumento nos casos contra LGBTQIAPN+ em 2023.
 * **1 em cada 3 mulheres** já foi assediada no trabalho.
   *(Fontes: ILGA, OMS)*
 ---
-## 📑 **Apresentação dos Slides**
+##  **Apresentação dos Slides**
 https://github.com/user-attachments/assets/c28fd462-fff1-4334-a868-fc4f72a1fb48
 
 
 ---
 
-## 💡 **Nossa Solução**
+##  **Nossa Solução**
 
 O **Defende+** é um chatbot pensado para:
 
@@ -42,7 +42,7 @@ O **Defende+** é um chatbot pensado para:
 * Ser um ambiente de **acolhimento, escuta e segurança**.
 
 ---
-## 🖥️ **Protótipo Interativo no Figma**
+##  **Protótipo Interativo no Figma**
 
 <div align="center">
 
@@ -55,7 +55,7 @@ O **Defende+** é um chatbot pensado para:
 
 ---
 
-## 🏗️ **Arquitetura do Projeto**
+##  **Arquitetura do Projeto**
 
 ![Image](https://github.com/user-attachments/assets/8a8fe320-f2c4-4265-94e5-b511915b1621)
 
@@ -64,7 +64,7 @@ Pensamos em uma solução escalável, segura e acessível, utilizando serviços 
 
 ---
 
-## 🧠 **Tecnologias e Ferramentas**
+##  **Tecnologias e Ferramentas**
 
 * **Figma** – Design e prototipagem.
 * **AWS** – Arquitetura de serviços (planejamento).
@@ -73,7 +73,7 @@ Pensamos em uma solução escalável, segura e acessível, utilizando serviços 
 
 ---
 
-## 👥 **Time de Desenvolvimento**
+##  **Time de Desenvolvimento**
 
 * Carolina Lima
 * Fernanda Agapito
@@ -84,7 +84,7 @@ Pensamos em uma solução escalável, segura e acessível, utilizando serviços 
 
 ---
 
-## 📜 **Licença**
+##  **Licença**
 
 Projeto desenvolvido para fins educacionais na **Escola da Nuvem**.
 Sem fins lucrativos, com foco em impacto social.
