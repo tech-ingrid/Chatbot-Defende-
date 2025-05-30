@@ -68,7 +68,8 @@ Pensamos em uma solução escalável, segura e acessível, utilizando serviços 
 
 * **Figma** – Design e prototipagem.
 * **AWS** – Arquitetura de serviços (planejamento).
-* **Chatbot** – Conceito para futura implementação.
+* **Draw.io** – Diagramação da arquitetura de serviços.
+* **Looker Studio** – Elaboração de análises gráficas e visualização de dados.
 
 ---
 
